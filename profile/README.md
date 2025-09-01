@@ -62,6 +62,6 @@ Respeto, inclusión y colaboración son nuestras bases. **Todos son bienvenidos*
 
 ### 📩 ¿Listo para unirte al movimiento?
 **¡No lo pienses más!**  
-👉 Envia un correo a contacto@clubinformatico.cl
-👉 En el asunto escribe "Quiero ser parte del Club Informático" 
-👉 Escribe que te motiva a ser parte y tu usuario de Github
+👉 Envia un correo a contacto@clubinformatico.cl   
+👉 En el asunto escribe "Quiero ser parte del Club Informático"   
+👉 Escribe que te motiva a ser parte y tu usuario de Github   
